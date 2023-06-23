@@ -27,6 +27,6 @@ The first line contains an integer N (the number of towns).
 The second line contains N - 1 space separated integers where the ith integer denotes the number of routes, Ni, from the town Ti to Ti+1
 
 Constraints:
-1 <= T<=1000
-2 < N <=100
+1 <= T<=1000 |
+2 < N <=100  |
 1 <= routes[i] <=1000
